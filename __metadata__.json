@@ -1,0 +1,90 @@
+{
+    "achievements_enabled": false, 
+    "alternate_url": null, 
+    "author": "primarygames", 
+    "author_link": "https://www.mochimedia.com/community/profile/primarygames", 
+    "categories": [
+        "Action", 
+        "Puzzles"
+    ], 
+    "category": "Puzzles", 
+    "coins_enabled": null, 
+    "coins_revshare_enabled": null, 
+    "control_scheme": "{\"fire\": \"na\", \"jump\": \"na\", \"movement\": \"na\"}", 
+    "controls": [
+        [
+            "fire", 
+            "na"
+        ], 
+        [
+            "jump", 
+            "na"
+        ], 
+        [
+            "movement", 
+            "na"
+        ]
+    ], 
+    "created": "2012-11-19T20:13:19-08:00", 
+    "description": "Feel the excitement and break the bricks as quickly as you can! Your goal in this game is to destroy the blocks by clicking a group of 3 or more pieces of the same color. When the game starts, multiple blocks of different colors will be placed in the play area. Click a group which has at least 3 bricks of the same color, and all of the connected bricks will be destroyed. When a column of blocks are removed, the remaining columns will merge. If you can destroy a group of 15 bricks or more, a bomb will appear and you may use it to destroy all blocks nearby. Note that a new row of blocks will appear at the bottom of the play area from time to time, and when the blocks pile up to the top, the game ends. Act fast before the blocks get in your way!", 
+    "developer": "primarygames", 
+    "developer_url": "https://www.mochimedia.com/community/profile/primarygames", 
+    "feed_approval_created": "2013-04-18T11:08:45-08:00", 
+    "game_tag": "4c84957e3b8df2c3", 
+    "game_url": "http://www.mochimedia.com/games/bricks-breaking-ii_v225530", 
+    "height": 400, 
+    "instructions": "", 
+    "key_mappings": "", 
+    "languages": [
+        "en"
+    ], 
+    "leaderboard_enabled": false, 
+    "metascore": 0.0, 
+    "name": "Bricks Breaking II", 
+    "rating": "Everyone", 
+    "recommendation": 2, 
+    "recommended": false, 
+    "resolution": "600x400", 
+    "screen1_thumb": null, 
+    "screen1_url": null, 
+    "screen2_thumb": null, 
+    "screen2_url": null, 
+    "screen3_thumb": null, 
+    "screen3_url": null, 
+    "screen4_thumb": null, 
+    "screen4_url": null, 
+    "slug": "bricks-breaking-ii_v225530", 
+    "stage3d": false, 
+    "swf_file_size": 264367, 
+    "swf_url": "http://games.mochiads.com/c/g/bricks-breaking-ii_v225530/bricks2.swf", 
+    "tags": [
+        "block", 
+        "bomb", 
+        "brick", 
+        "color", 
+        "colour", 
+        "destroy", 
+        "puzzle", 
+        "tile", 
+        "action games", 
+        "action puzzle games", 
+        "bricks", 
+        "bricks breaking", 
+        "bricks breaking II", 
+        "bricks breaking 2", 
+        "collapse", 
+        "super collapse", 
+        "puzzle games", 
+        "Action Puzzle Games", 
+        "Action Games", 
+        "Puzzle Games", 
+        "en"
+    ], 
+    "thumbnail_large_url": "http://games.mochiads.com/c/g/bricks-breaking-ii_v225530/_thumb_200x200.png", 
+    "thumbnail_url": "http://games.mochiads.com/c/g/bricks-breaking-ii_v225530/_thumb_100x100.png", 
+    "updated": "2013-04-18T11:08:55-08:00", 
+    "uuid": "a1425f08-5c7c-3fab-80e2-a8d005b21a46", 
+    "video_url": null, 
+    "width": 600, 
+    "zip_url": "http://games.mochiads.com/c/g/bricks-breaking-ii_v225530.zip"
+}
